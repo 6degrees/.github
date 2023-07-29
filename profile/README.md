@@ -23,9 +23,11 @@ Theory of “6 degrees of separation” revolves around the fact that we are all
 
 
 ## Organizations we are proud to work with 
-![PE Logo](https://github.com/6degrees/.github/blob/main/Promotion%20Efficiency%20-%20Logo.png?raw=true)
+<p align="left"> <a href="https://github.com/PromotionEfficiency" target="_blank"> <img src="https://github.com/6degrees/.github/blob/main/Promotion%20Efficiency%20-%20Logo.png?raw=true"  width="100" height="100"/> </a> <img 
 
+<p align="left"> <a href="https://github.com/PromotionEfficiency" target="_blank"> <img src="https://github.com/6degrees/.github/blob/main/Promotion%20Efficiency%20-%20Logo.png?raw=true"  width="100" height="100"/> </a> <img 
 
+<br>
 
 ## Establishment Information
 [6 Degrees Technologies](https://www.6d.com.sa). All right reserved. copyright 2021  
